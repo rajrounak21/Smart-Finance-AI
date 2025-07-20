@@ -1,1 +1,1 @@
-GOOGLE_API_KEY = "your_google_api_key"  
+OPENAI_API_KEY = "your_openai_api_key"  
