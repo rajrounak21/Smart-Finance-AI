@@ -1,6 +1,6 @@
 # 📊 SmartFinance-AI - AI-Powered Financial Insights 🚀  
 
-SmartFinance-AI is an **AI-driven financial analysis tool** that provides **near real-time stock insights, analyst recommendations, company news, and market trends** using **Google Gemini AI, YFinance, and DuckDuckGo search**.  
+SmartFinance-AI is an **AI-driven financial analysis tool** that provides **near real-time stock insights, analyst recommendations, company news, and market trends** using **Openai Model, YFinance, and DuckDuckGo search**.  
 
 ## 🚀 Features  
 - ✅ **Stock Price & Fundamentals**: Fetches stock prices and key financial metrics from Yahoo Finance.  
