@@ -1,4 +1,4 @@
-# 📊 SmartFinance-AI - AI-Powered Financial Insights 🚀  
+#  SmartFinance-AI - AI-Powered Financial Insights  
 
 SmartFinance-AI is an  **Agentic AI**  **AI-driven financial analysis tool** that provides **near real-time stock insights, analyst recommendations, company news, and market trends** using **Openai Model, YFinance, and DuckDuckGo search**.  
 
